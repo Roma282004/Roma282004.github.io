@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Site web cu machetarea tabelară</title>
+<style>
+body {
+    margin: 20px;
+    background: purple;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 2.2;
+    color: white;
+    max-width: px;
+	padding:20px;
+	padding-left: 20px;
+	padding-right:20px;	
+}
+a{
+padding-left:30px;
+}
+    </style>
+<body><h1 align="center">Ce este HTML ?</h1>
+
+ <a>Unul</a> din primele elemente fundamentale ale WWW ( World Wide Web ) este HTML ( Hypertext Markup Language ), care descrie formatul primar în care documentele sunt distribuite și văzute pe Web. Multe din trasaturile lui, cum ar fi independenta fata de platforma, structurarea formatării și legaturile hypertext, fac din el un foarte bun format pentru documentele Internet și Web.
+Primele specificațiile de bază ale Web-ului au fost HTML, HTTP și URL.
+HTML a fost dezvoltat initial de Tim Berners-Lee la CERN în 1989. HTML a fost vazut ca o posibilitate pentru fizicienii care utilizeaza computere diferite și schimbe intre ei informație utilizind Internetul. Erau prin urmare necesare citeva trasaturi: independenta de platforma, posibilități hypertext și structurarea documentelor.Independenta de platforma inseamnă ca un document poate fi afișat în mod asemănător de computere diferite ( deci cu fonte, grafica și culori diferite ), lucru vital pentru o audienta atit de variata.
+Hipertext înseamnă că orice cuvânt, frază, imagine sau alt element al documentului văzut de un utilizator ( client ) poate face referința la un alt document, ceea ce ușurează mult navigarea intre multiple documente sau chiar în interiorul unui aceluiasi document. Structurarea riguroasa a documentelor permite convertirea acestora dintr-un format în altul precum și interogarea unor baze de date formate din aceste documente.
+<a><font size="5"><a href="https://web.ceiti.md/lesson.php?id=1">HTML</a></font></p>
+</a>
+</body>
+</head>
+</html>

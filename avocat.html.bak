@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+      #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+<p><h1 align="center">Avocat</h1> <img src="200px-Advokat,_Fransk_advokatdräkt,_Nordisk_familjebok.png" height="300" width="280" align="right">
+<big>În accepțiunea generală, avocatul este un jurist ale cărui funcții tradiționale sunt de a consilia, reprezenta, asista și apăra clienții săi, persoane fizice sau juridice, în instanțele de judecată, prin pledoarie, pentru afirmarea drepturilor acestora. În plus, avocatul poate îndeplini funcții de consultanță, de raportor sau de mandatar al clientului. Avocatul reprezintă și apără clienții în chestiuni diverse precum divorțuri, moșteniri, litigii, aspecte penale sau comerciale, etc. În practică, unii avocați sunt specializați: avocat pledant (de instanță), avocat de afaceri (de consultanță), avocat de dreptul muncii, avocat de dreptul familiei etc. A lucra ca avocat implică aplicarea practică a teoriilor și cunoștințelor juridice abstracte pentru a rezolva probleme specifice individualizate sau pentru a promova interesele celor care angajează avocați pentru a le presta servicii juridice. Rolul avocatului variază foarte mult în funcție de jurisdicție.
+Fiecare jurisdicție își exercită dreptul de a stabili cine este recunoscut ca avocat. Ca urmare, sensul termenului „avocat” poate varia de la o țară la alta. Unele jurisdicții, sub influența dreptului anglo-saxon, au două tipuri de avocați: avocați pledanți (eng: barristers) și avocați-consilieri (eng: solicitors), în timp ce în alte jurisdicții, sub influența dreptului continental, au un singur tip de avocat, cu competență generală, înscris pe tabloul unei asociații profesionale, denumite barou.
+
+În sistemul anglo-saxon, avocați pledanți (eng: barristers) au competență exclusivă pentru reprezentarea clienților, persoane fizice, în instanțele superioare. Pe de altă parte, avocații-consilieri (eng: solicitors) sunt instruiți să pregătească dosare și să ofere sfaturi cu privire la subiecte juridice și pot reprezenta persoane fizice în instanțele inferioare. Atât avocații pledanți, cât și avocații-consilieri sunt licențiați ai unei facultăți de drept și trebuie să finalizeze pregătirea practică necesară. În unele jurisidicții anglo-saxone, numai avocații pledanți sunt acceptați ca membri ai barourilor respective. 
+</p></big>
+<center><img src="avocat.jpg" height="350" width="500" ></center>
+
+</body>
+</html>
+

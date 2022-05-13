@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+       #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+<p><h1 align="center">Marketer</h1> 
+<img src="улучши-1920x1280.png" width="200" height="110" align="left">
+<big>Marketerul este o persoană care creează o atmosferă de vânzare sau implicare în lanț între consumator și produsul sau serviciul companiei.
+
+Prin implicarea în lanț, mă refer la toate acele activități precum atragerea clienților către produsul companiei prin publicitate și promovare și menținerea unei oferte suficiente de bunuri la stoc pentru a face față cererii.Rolul marketerilor este de a ajuta compania să dezvolte noi produse sau servicii, să găsească și să dezvolte noi teritorii de marketing pentru creșterea afacerilor.
+Un marketer este același marketer, doar un practicant, cineva care a acumulat deja o mulțime de experiență, acesta este un intern special. Aceasta este o unitate de luptă care gândește clar prin toate, primește date inițiale, analizează, cântărește și construiește o strategie tactic spumante care trage ca un tun. Așa aș identifica acest tip de oameni. Aceștia sunt strategi și specialiști cu experiență.
+
+Marketerul și marketerul se învecinează foarte strâns, astfel încât pentru laicul mediu, marginile dintre ele sunt practic șterse. Și în viața de zi cu zi, adesea auzim și folosim termenul "marketer" - și care dintre ele, depinde de tine.
+
+</p></big>
+<center><img src="5cb881a518b2a417493328.jpg" height="350" width="600"></center>
+</body>
+</html>

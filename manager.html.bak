@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+      #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body  text="black">
+<p><h1 align="center">Managerul</h1> 
+<big>Managerii sunt acele persoane a căror activitate de bază este să ducă la îndeplinire procesul managerial. Rolurile acestora sunt împărțite în următoarele categorii: roluri interpersonale, roluri informaționale, roluri decizionale.
+
+Rolurile interpersonale se împart la rândul lor în rol de reprezentanță (la diferite evenimente și cu diferite ocazii, managerul reprezintă firma și „taie panglica”), rol de lider (conduce subordonații) și rol de legătură (coordonează două sau mai multe unități, departamente etc).
+
+Rolurile informaționale sunt: rolul de monitor (caută informații importante pentru organizație), rolul de diseminator (distribuie în organizație informațiile găsite) și rolul de purtător de cuvânt (spre exemplu, la o conferință de presă vorbește în numele organizației).
+
+Rolurile decizionale includ: rolul de întreprinzător (managerul are responsabilitatea de a cauta și găsi oportunități), rolul de negociator (atât în interiorul organizației, cu șefii de departamente, spre exemplu, cât și în afară, cu sponsori, furnizori, mass-media șamd), rolul de persoană care soluționează diverse probleme și rolul de alocator de resurse (managerul stabilește modul de distribuire a resurselor umane, materiale, temporale șamd în funcție de obiectivele stabilite în planul operațional).
+</p>
+<center><h2>Clasificarea managerilor</h2></center>
+<li>Managerii juniori sunt manageri de nivel de intrare care sunt direct deasupra altor angajați (nu manageri). Acestea includ șefi de departament (magazine, instituții), depozit, departament și laborator în instituții educaționale și științifice, șefi de site-uri și schimburi, manageri de vânzări care sunt subordonați specialiștilor în vânzări, consultanți de vânzări, reprezentanți de vânzări, agenți etc. În general, majoritatea managerilor sunt manageri juniori, adică nivelul inițial.  Majoritatea specialiștilor devin manageri în această calitate.</li>
+<li>Managerii de mijloc sunt manageri de mijloc care gestionează managerii juniori. În funcție de mărimea și structura organizației, pot exista mai multe niveluri ale acestor manageri. Managerii de mijloc, de regulă, sunt șefi de departamente, divizii, departamente, Decani ai facultăților, șefi de ateliere, depozite, ferme.</li>
+<li>Manageri superiori — manageri de top, personal administrativ și managerial superior. Acesta este un grup mic de manageri. Chiar și în cele mai mari organizații, există doar câțiva oameni. Pozițiile tipice aici sunt directorul general al întreprinderii, managerul băncii, rectorul Universității, președintele Consiliului de Administrație, președintele Consiliului de administrație.</li>
+</big>
+<center><img src="media_81347m1616409529.jpeg" height="250" width="400"></center>
+</body>
+</html>

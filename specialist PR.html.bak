@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+       #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+<p><h1 align="center">Bucatar</h1> 
+<img src="William_Orpen_Le_Chef_de_l'Hôtel_Chatham,_Paris.jpg" width="300" height="400" align="right">
+<big>Bucătarul pregătește diverse feluri de mâncare (primele cursuri, al doilea curs, deserturi, gustări reci și calde, precum și al treilea curs — băuturi) în funcție de rețete și știe cum să proiecteze gătitul. El trebuie să cunoască elementele de bază ale gătitului, regulile de depozitare și vânzare a produselor alimentare (organizează Depozitarea produselor în conformitate cu standardele sanitare și igienice) și costul acestora. În ciuda faptului că bucătarul din unitățile de catering folosește rețetele stabilite de feluri de mâncare, el le poate schimba, în funcție de calitatea materiilor prime și de contingentul consumatorilor. Funcționează în interior (bucătărie), în condiții de temperatură și umiditate ridicate.
+Profesia de bucătar poate fi dobândită în colegii Speciale, instituții de învățământ tehnic secundar și școli tehnice profesionale.
+Pentru a indica o mare dragoste pentru arta gătitului, se folosește numele de familie al bucătarului șef al Prințului Conde, F. Watel (Vatel, Watel), care s-a sinucis sub influența fricii că peștele de mare proaspăt nu ar fi pregătit pentru masa oaspeților celebri invitați de prinț.
+<center><h2>Tipuri de profesii (posturi)</h2></center>
+<li>Bucătar șef ,bucătar (bucătar executiv sau bucătar șef)
+Întocmește cereri pentru produsele alimentare, semifabricatele și materiile prime necesare, asigură primirea lor în timp util din depozit, controlează calendarul, sortimentul, cantitatea și calitatea primirii și vânzării lor. Oferă, pe baza studiului cererii consumatorilor, o varietate de sortimente de feluri de mâncare și produse culinare, compune un meniu. Efectuează un control constant asupra tehnologiei de gătit, a normelor de stabilire a materiilor prime și a respectării de către angajați a cerințelor sanitare și a regulilor de igienă personală. Efectuează plasarea bucătarilor și a altor lucrători din producție. Face un program pentru bucătari pentru a merge la locul de muncă. Conduce frânareavârstă de alimente gata preparate. Organizează contabilitatea, compilarea și raportarea în timp util a activităților de producție, introducerea de tehnici avansate și metode de lucru.</li>
+<li>Senior Chef, Sous Chef
+Al doilea în ierarhia din bucătărie, bucătar asistent, bucătar adjunct și, de asemenea, este specializat în gătit diferite feluri de mâncare</li>
+<li>Bucătar de patiserie
+Specializată în produse de cofetărie.</li>
+<li>Bucătar-tehnolog, Tehnolog
+Organizează procesul de preparare a alimentelor. Determină calitatea materiilor prime, calculează cantitatea sa pentru a obține porții de produse finite, conținutul caloric al dietei zilnice, face meniuri și liste de prețuri. Distribuie taxe în echipa de bucătari. Controlează procesul de gătit produse culinare, dezvoltă rețete pentru noi feluri de mâncare semnate și întocmește hărți tehnologice pe ele. Întocmește documentația necesară, instruiește bucătarii. Păstrează înregistrări complete ale valorilor materialelor, echipamentelor, materiilor prime, produselor finite.</li>
+<li>Bucătar
+Bucătarul calculează materiile prime și producția produselor finite, întocmește meniuri, aplicații pentru produse și semifabricate, pregătește feluri de mâncare, efectuează strecurarea, frământarea, măcinarea, turnarea, umplutura, umplutura produselor, reglează regimul de temperatură, determină pregătirea vesela, produse prin dispozitive de control și măsurare, precum și prin aspect, miros, culoare, gust, produce decorarea vesela și cofetăriei, produce porționarea vesela.
+</li></p>
+</p></big>
+<center><img src="2fbbf062-4fbb-5eab-adea-9ad5e965d6a7.jpg" height="350" width="600"></center>
+</body>
+</html>

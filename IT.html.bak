@@ -1,0 +1,123 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+      #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+<p><h1 align="center">Specialist in domeniul IT</h1> 
+<center><big><h2>Cine sunt specialiștii IT</h2></center>
+<img src="85_main-v1583947557.jpg" width="350" height="200" align="right">
+Când o persoană spune" Sunt medic", îți devine imediat clar pentru cine lucrează? Acesta poate fi medicul șef într-un spital, o simplă asistentă/Asistentă medicală, un terapeut, un cardiolog, un chirurg etc. până când o persoană spune exact cine lucrează în medicină, profesia sa rămâne un mister.  Chiar dacă vi se răspunde "Sunt doctor", profesia lui va rămâne în continuare necunoscută.
+
+Specialiștii IT au exact aceeași situație. Când vi se răspunde "Sunt specialist IT", nu vă va spune nimic, dar chiar dacă vi se răspunde "Sunt dezvoltator", va fi echivalent cu răspunsul "Sunt doctor", deci nu înseamnă nimic. Uneori este foarte dificil pentru un specialist IT să explice unei persoane obișnuite ce face, așa că trebuie să înțelegeți răspunsurile "sunt specialist IT".
+Am spus deja că specialiștii IT sunt specialiști care lucrează în domeniul tehnologiei informației, deci acestea pot fi următoarele domenii:</p>
+<li>dezvoltarea jocurilor pe calculator;</li>
+
+<li>dezvoltarea site-ului;</li>
+
+<li>crearea de aplicații web;</li>
+
+<li>dezvoltarea de jocuri pentru telefoane mobile pentru diferite sisteme de operare;</li>
+
+<li>dezvoltarea aplicațiilor pentru telefonul mobil;</li>
+
+<li>crearea interfețelor de aplicație;</li>
+
+<li>design de aplicații web și site-uri web;</li>
+
+<li>Design obiect 3D și animație;
+</li>
+<li>promovarea site-ului în motoarele de căutare;</li>
+
+<li>administrarea sistemului;</li>
+
+<li>ingineria și proiectarea diferitelor sisteme;</li>
+
+<li>Business analytics;</li>
+
+<li>prelucrarea și analiza datelor mari;</li>
+
+<li>Administrarea Bazelor de date;</li>
+
+<li>aspect;</li>
+
+<li>IT copywriting;</li>
+
+<li>testarea aplicațiilor;</li>
+
+<li>marketing și publicitate;</li>
+
+<li>promovarea conturilor de social media;</li>
+
+<li>controlul calității și optimizarea dezvoltării aplicațiilor și multe altele.</li>
+</p>
+<center><h3>Cum să devii specialist IT</h3></center>
+Este foarte ușor să te clasifici ca o castă "oameni IT". Pentru a face acest lucru, nu trebuie să aveți abilități extraordinare — începeți să vă dezvoltați și să vă promovați contul de rețea socială și vă puteți considera un specialist IT.
+
+Dar serios, mai întâi trebuie să vă decideți în ce zonă doriți să vă dezvoltați. Începând deja de la aceasta, veți decide ce va trebui să studiați și cât timp va dura. De exemplu, dacă doriți să deveniți un optimizator SEO, specialist SMM sau copywriter IT, atunci nu va trebui să studiați mult timp. Pentru a începe, câteva cărți citite sau chiar un curs bun de studiu vor fi suficiente. Formarea în aceste specialități poate dura de la câteva săptămâni la două luni.
+Dar dacă doriți să intrați într-o sferă mai "monetară", de exemplu, în dezvoltarea oricăror produse software, atunci pregătirea va fi mult mai gravă. De exemplu, va trebui să învățați un limbaj de programare și un număr mare de instrumente suplimentare care vă însoțesc profesia. Acest lucru poate dura câteva luni, iar în cazuri speciale chiar și un an și jumătate sau doi. Dar trebuie să înțelegeți că remunerația va fi mult mai mare.
+
+În ceea ce privește formarea, este foarte accesibil în zilele noastre. Nu trebuie să mergi la o universitate pentru a obține o specialitate IT. Există multe site-uri de instruire de înaltă calitate pe web care vă pot face un "specialist IT". Instruirea poate fi plătită sau gratuită, cu sau fără curatori, cu sau fără siguranța locului de muncă. În general, puteți găsi o pregătire de înaltă calitate pentru fiecare gust și pungă.
+</big></p>
+<center><img src="post_5d8b9dcb88d1d.jpg" height="250" width="400"></center>
+</body>
+</html>

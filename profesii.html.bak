@@ -1,0 +1,82 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+  <style>
+      #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">
+																  Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+
+<center><p><li><font size="6">Piloții</font></p></center>  <big>sunt în cerere astăzi, nu mai puțin decât medici. Transportul aerian este cel mai rapid și mai popular din lume. Prin urmare, profesia pilotului este una dintre cele mai prestigioase și foarte plătite. Dar există o mulțime de cerințe pentru aceasta: abilități precise, formare, stres psihologic, responsabilitatea vieții oamenilor. Avioanele fără pilot apar deja astăzi, bineînțeles. Cu toate acestea, ei nu vor putea să-i împingă pe cei vii complet în curând.</p>
+</big>
+<center><img src="professii-vsego-mira-perechen-rejting-samie-redkie-professii-v-mire_4.jpg" height="250" width="400" ></center>
+
+<center><p><li><font size="6">Profesiile sociale</font></p> </center> <big>au multe avantaje. Ele oferă posibilitatea de a se angaja în diverse activități interesante, de a lărgi orizonturile, de a realiza auto-realizarea individului.Profesiile sociale și umanitare includ: Antrenor, psiholog, sociolog, asistent social, educator social, etnograf, arheolog, blogger, copywriter, ofițer media, politolog, educator, profesor, recruiter, bibliotecarul Specializările socio-economice includ: contabil, specialist în marketing, manager, economist.<center></p><img src="professii-vsego-mira-perechen-rejting-samie-redkie-professii-v-mire_5.jpg" height="230" width="400"></center>
+</big>
+<center><p><li><font size="6">Profesor</font></p></center>  <big>Un profesor,  este una dintre cele mai comune profesii publice care vizează educarea și educarea generațiilor următoare (mai larg, studenți). Confucius a scris: sarcina unui profesor este de a deschide o nouă perspectivă asupra gândurilor elevului<center></p><img src="matem.jpg" height="230" width="400"></center>
+</big>
+<center><p><li><font size="6">Inginer</font> </center> </p><big>Un inginer este o persoană cu o pregătire tehnică - teoretică și practică, obținută într-un institut de învățământ superior, care practică ingineria. Spre deosebire de oamenii de știință, care studiază natura și fenomenele naturale pentru a stabili principii, axiome și teoreme, inginerii aplică principiile teoretice din matematică, fizică și chimie pentru a crea un produs concret, ca de exemplu un rulment sau o tastatură de telefon.
+
+Inginerii, ca practicieni ai ingineriei, sunt profesioniști care inventează, proiectează, analizează, construiesc și testează mașini, sisteme complexe, structuri, gadgeturi și materiale pentru a îndeplini obiectivele și cerințele funcționale, ținând cont de limitările impuse de practic, reglementare, siguranță și cost<center></p><img src="2949895.jpg" height="230" width="400"></center>
+<center></big><p><li><font size="6">Șoferul</font></center> </p><big>Șoferul este conducătorul unui autovehicul (automobil, autocamion, autobuz) ce are ca mijloc de propulsie motor cu ardere internă sau electric, având responsabilitatea de a respecta legislația codului rutier pe drumurile publice.<center></p><img src="Rabota-voditelem-v-Germanii.jpg" height="230" width="400"></center>
+</big>
+</body>
+</html>

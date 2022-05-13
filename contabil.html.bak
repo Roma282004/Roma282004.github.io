@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+       #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body  text="black">
+<p><h1 align="center">Contabil</h1> 
+<big>Contabilitatea este știința și arta stăpânirii afacerilor, în care scop se ocupă cu "măsurarea, evaluarea, cunoașterea, gestiunea și controlul activelor, datoriilor și capitalurilor proprii, precum și a rezultatelor obținute din activitatea persoanelor fizice și juridice", în care scop "trebuie să asigure înregistrarea cronologică și sistematică, prelucrarea, publicarea și păstrarea informațiilor cu privire la poziția financiară, performanța financiară și fluxurile de trezorerie, atât pentru cerințele interne ale acestora, cât și în relațiile cu investitorii prezenți și potențiali, creditorii financiari și comerciali, clienții, instituțiile publice și alți utilizatori"</p>
+<center><h2>Contabil profesionist</h2></center>
+Acesta este termenul oficial al Federației Internaționale a Contabililor. Conform standardelor adoptate de această organizație internațională, următoarele profesii aparțin "profesioniștilor contabili": contabil șef, auditor, director financiar și consultant fiscal.
+
+Asociațiile profesionale de contabilitate precum IFA, CIMA și ACCA oferă Contabililor certificare.
+</p><b>Contabilitate</b></p>
+În absența automatizării contabile în rândul Contabililor unui mare departament contabil al unei întreprinderi, a existat un strat semnificativ de contabili-lucrători care au compilat date despre unul sau mai multe conturi strict delimitate între ele și a fost caracteristic faptul că mecanismul dublei intrări nu a fost utilizat de fiecare dintre ei separat, corespondența conturilor nu a fost efectuată, ceea ce a dus adesea la erori în reconcilierea
+</big><center><img src="5u1svbsz9st9kjg0jycmhttgmvaor1z6.jpeg" height="250" width="400"></center>
+</body>
+</html>

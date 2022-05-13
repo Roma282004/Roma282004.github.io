@@ -1,0 +1,79 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+       #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+<p><h1 align="center">Psihologul</h1> 
+<big>Psiholog este un specialist implicat în studiul manifestărilor, metodelor și formelor de organizare a fenomenelor mentale ale personalității în diferite domenii ale activității umane pentru rezolvarea sarcinilor de cercetare și aplicate, precum și în scopul acordării de asistență psihologică, sprijin și sprijin. Un psiholog, de regulă, a absolvit o educație psihologică superioară sau a fost recalificat pe baza învățământului superior în specialitatea "Psihologie".
+Poziția unui psiholog este interesantă prin faptul că vă permite să comunicați cu oameni interesați, să participați la seminarii, evenimente de teren. În plus față de salariul ridicat, această profesie implică o înțelegere a relației dintre oameni, studiul personajelor și comportamentului, care este foarte util în viață.</p>
+Un psiholog, de regulă, a absolvit o educație psihologică superioară sau a fost recalificat pe baza învățământului superior în specialitatea "Psihologie". El poate avea următoarele calificări:" bachelor"," psiholog"," master "în domeniul formării" Psihologie "și"psihologie clinică".
+
+Fenomenele mentale studiate de un psiholog includ procese mentale, proprietăți și stări de personalitate în domenii ale activității umane precum sistemul de sănătate, educația, activitățile profesionale, afacerile, sportul, arta, precum și sistemul de asistență și sprijin social etc.
+<center><h2>Clasificarea</h2></center>
+<li>Psiholog/cercetător teoretic. Angajat în studiul, cercetarea și identificarea modelelor, mecanismelor psihologice, dezvoltarea teoriilor.</li>
+<li>Un psiholog practic. Angajat în aplicarea cunoștințelor, abilităților și abilităților profesionale în practică. Psihologii practicanți, de regulă, au un fel de specializare în funcție de domeniul de activitate în care practică (de exemplu, un psiholog copil, un psiholog clinic, un psiholog sportiv).</li>
+<li>Profesor de Psihologie. Acestea sunt de obicei denumite teoreticieni, deși este logic să identificăm separat acest domeniu al activității psihologice. Deoarece profesorul, pe lângă predare, are oportunități de cercetare și muncă practică (Consiliere Psihologică, instruiri și seminarii practice), precum și pentru rezolvarea problemelor de natură aplicată (dezvoltarea și / sau implementarea produselor psihologice [termen necunoscut] la comandă, într-o instituție de învățământ sau în afara zidurilor sale).</li>
+</big></p>
+<center><img src="2247471.jpg" height="350" width="500"></center>
+</body>
+</html>

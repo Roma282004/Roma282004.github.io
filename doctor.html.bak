@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+      #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+<p><h1 align="center">Doctorul</h1> 
+<img src="D_7vJOQXkAED-KE.jpg" width="200" height="250" align="left"><big>Doctor, de asemenea doctor este un specialist cu studii medicale superioare care își folosește abilitățile, cunoștințele și experiența în prevenirea și tratamentul bolilor, menținând funcționarea normală a corpului uman. Calificarea unui medic prevede disponibilitatea obligatorie a învățământului medical superior și a formării profesionale suplimentare în prezența unei specializări înguste. În multe state, permisiunea autorităților locale este necesară pentru activitatea unui medic sau acreditarea (certificarea) adecvată pentru dreptul la activitate medicală, vindecarea ilegală în multe țări atrage sancțiuni penale. În Rusia, de exemplu, activitatea medicală ilegală este o infracțiune dacă o astfel de activitate a provocat daune semnificative.
+Sarcina principală a unui medic practicant este de a preveni, recunoaște și trata bolile și leziunile. Acest lucru se realizează prin dezvoltarea profesională continuă și îmbunătățirea abilităților medicale, cum ar fi: studiul unui număr de discipline clinice fundamentale, generale și speciale interdependente, experiența comunicării directe cu pacientul, nevoile și suferințele acestuia.
+Un medic veterinar este o persoană cu o educație veterinară superioară. Un dentist (spre deosebire de un dentist) are o educație medicală secundară. Domeniul de activitate al unui dentist este echivalat cu un dentist de practică generală.
+Medicul șef (în țările post—sovietice) este șeful unei instituții medicale și preventive, o persoană cu studii medicale superioare și specializare "organizația de sănătate".
+<center><h2>Rolul Social</h2></center>
+Un medic se bucură în mod tradițional de un statut special în orice societate și i se impun cerințe etice și legale ridicate.
+Statutul social al unui medic în Rusia este contradictoriu. Este necesar să se recunoască discrepanța dintre nivelul de calificare și intensitatea muncii la valoarea remunerației materiale. Deci, medicii lucrează adesea dincolo de normele stabilite în timp și volum, conform unui program inflexibil și câștigă mai puțin decât alți specialiști a căror educație este comparabilă ca durată și complexitate.
+Se consideră că un medic" real " este un punct de referință pentru publicul larg în materie nu numai de protecție a sănătății (ar trebui, de exemplu, să nu fumeze, să nu bea băuturi alcoolice, să conducă un stil de viață activ, să mănânce bine), ci și moralitate. Există opinia că un medic ar trebui să fie complet dedicat cauzei medicinii, milostiv, exigent de sine, modest în viața de zi cu zi și nevoi, sobru în evaluări, să arate forță și determinare în situații dificile de viață.
+
+Medicina, ca ramură a activității umane, ocupă un loc cu totul special, deoarece combină știința cu valorile, adică o abordare care nu are nicio legătură cu știința. Baza abordării medicale este compasiunea. Cu toate acestea, compasiunea nu înseamnă sentimentalism. Aceasta este o reacție creativă la suferința pacientului și a situației sale. Răspunsul este suficient de creativ pentru a încuraja medicul să ia măsuri pe baza respectului pentru o anumită persoană și a semnificației acelei persoane.
+</p></big>
+<center><img src="VRACI (1).jpg" height="350" width="600"></center>
+</body>
+</html>

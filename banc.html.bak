@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+      #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+<p><h1 align="center">Angajatul bancii</h1> 
+<img src="cash-money-currency-banknote-box-saving-dollar-money-handling-electronics-metal-1611443.jpg" width="250" height="170" align="right">
+<big>Un angajat bancar este un concept destul de larg, care include economiști cu niveluri diferite de cunoștințe și abilități, de la simplu casieri la manageri. Dar orice astfel de angajat trebuie să aibă în mod necesar o educație specială în domeniul economiei. Cu cât este mai calificat un angajat al băncii, cu atât mai multe oportunități pe care el le primește atunci când se deplasează pe scara de carieră.
+Mai recent, angajații băncii au fost îmbrăcați în mod conservator, bărbați liniștiți, care au studii superioare și sunt capabili să vorbească competent. Astfel de angajați, imediat după absolvirea liceului, au venit să lucreze într-o organizație de credit pentru a-și desfășura viața și a deveni lider. Până în prezent, un astfel de stereotip nu mai este relevant. Angajații băncii sunt în majoritate femei, iar printre lideri se află mult mai des. Și locul de muncă în bancă pe posturi nu mai este pur și simplu pentru a schimba documente, are un accent mare pe vânzarea de servicii bancare.
+<center><h2>Descrierea profesiei – ce face un angajat al bancii</h2></center>
+Poziția deținută determină ce face Bancherul. Sarcina angajaților obișnuiți este de a interacționa cu clienții. Atribuțiile unui bancher sunt împărțite condiționat în bază (lucrul cu finanțele) și auxiliar (evaluarea perspectivelor debitorilor, studierea industriei financiare).
+</p>Principalele responsabilități sunt:</p>
+<li>serviciu</li>
+<li>consultanță</li>
+<li>analiză</li>
+<li>planificare</li></p>
+Departamentul în care lucrează specialistul este, de asemenea, important.Există 8 divizii bancare principale:</p>
+<li>împrumuturi (emiterea de împrumuturi, acceptarea rambursărilor împrumutului, analiza stării financiare a Împrumutatului și așa mai departe)</li>
+<li>investiții (analiza proiectelor care necesită împrumuturi pe termen lung)</li>
+<li>Departamentul de acțiuni (se ocupă de plasarea obligațiunilor și acțiunilor băncii pe piața bursieră)</li>
+<li>Departamentul juridic (deschiderea și închiderea conturilor clienților cu verificarea legalității tranzacțiilor depuse, exercitarea controlului asupra proceselor de arbitraj, este un reprezentant al băncii în instanță)</li>
+<li>titluri de valoare (emiterea de bilete la ordin bancare, plasarea valorilor mobiliare la bursă)</li>
+<li>trezorerie (implementarea diferitelor operațiuni pe piața financiară pentru a obține profit)</li>
+<li>Departamentul de carduri de plastic (recepție, emiterea de carduri de plastic ale Băncii)</li>
+<li>marketing (publicitatea activităților unei anumite bănci pentru a atrage noi clienți)</li></p>
+Profesia unui bancher, a cărei descriere este destul de extinsă, implică o educație financiară. Aproximativ 80% din timpul de lucru specialistul este implicat în analiza informațiilor primite, inclusiv activitățile financiare ale structurii bancare și ale clienților săi, precum și întreținerea documentației contabile. Managerii sunt angajați în consilierea clienților obișnuiți și potențiali cu privire la primirea și plata împrumuturilor, depozitelor și altele asemenea.
+</p></big>
+<center><img src="binbank_b(57)__nh3hdfl.jpg" height="350" width="600"></center>
+</body>
+</html>

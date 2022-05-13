@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>informatia de baza</title>
+</head>
+<style>
+      #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body  text="black">
+<p><h1 align="center">Cine este un designer de modă și ce face el</h1> 
+<big>Un designer de modă este un specialist care creează haine noi, vine cu idei de colecție, desenează schițe, proiectează modele.
+
+De asemenea, atribuțiile sale includ adesea pregătirea documentelor tehnice, controlul începerii producției și controlul calității. Designerii de Costume îndeplinesc uneori îndatoririle unui croitor: fac măsurători, desenează modele, coase.
+În țara noastră, designerii de modă sunt adesea numiți designeri de modă. Acestea sunt nume diferite pentru aceeași profesie. Și couturierii au alte îndatoriri: sunt angajați în crearea de imagini exclusive pentru spectacole de modă, lucrează în principal în domeniul modei înalte.
+Această profesie interesantă este potrivită pentru persoanele care iubesc activitatea creativă, care preferă să inventeze ceva nou, să vadă rezultatul activităților lor.
+<center><h2>Ce trebuie să știți și să puteți</h2></center>
+Un designer de modă este un specialist care îndeplinește o varietate de îndatoriri, așa că trebuie să aibă o mulțime de cunoștințe, abilități și abilități:
+</p><li> Analiza tendințelor și activităților firmelor competitive.</li>
+<li> Înțelegerea direcției tendințelor modei.</li>
+<li> Dezvoltarea colecțiilor, producția de schițe.</li>
+<li> Crearea de haine noi pentru diverse specializări: copii, femei, bărbați etc.</li>
+<li> Crearea de schițe. </li>
+<li> Dezvoltarea modelelor.</li>
+<li> Selectarea materialelor, accesoriilor, capacitatea de a le combina frumos.</li>
+<li> Crearea unui sortiment de lucruri, dimensiuni.</li>
+<li> Lansarea colecției în producție și verificarea calității produselor finite.</li></p>
+Cusutul nu este o abilitate de bază pe care un designer ar trebui să o aibă, cu toate acestea, este bine dacă un specialist știe cum să o facă. Adesea, designerul trebuie să ia măsurători din modele, să facă modele, să ia parte la fitinguri și ședințe foto.
+</p></big>
+<center><img src="1602970187_3-p-dizainer-interera-o-professii-6.jpg" height="350" width="500"></center>
+</body>
+</html>

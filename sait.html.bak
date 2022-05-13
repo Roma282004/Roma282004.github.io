@@ -1,0 +1,110 @@
+<html>
+<head>
+<title>Profesii de prestigiu</title>
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta charset="utf-8">
+    <title>Profesii de prestigiu</title>
+    <style>
+      #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+	  
+
+ 
+  </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+ 
+   
+<body text="black"><h1 align="center">Profesii de prestigiu</h1>
+
+<center><big><big><b>Сe este o profesie?</b></p></big></big></center>
+<img src="9bddb0383b7a22e9.jpg" height="280" width="350" align="right">
+<big><big>O profesie este o caracteristică socială a unei persoane, indicând faptul că aparține unei anumite categorii de persoane care se angajează în același tip de muncă.</p> </big>
+Dorința de a stăpâni o profesie de prestigiu este larg răspândită în rândul tineretului modern. O profesie de prestigiu este un semn de succes și de solvabilitate. Majoritatea absolvenților de școli și de solicitanți aleg să învețe o serie de specialități doar pentru că sunt recunoscuți ca fiind prestigioși în timpul nostru. Mai mult, nu este dificil să intri în facultatea populară, este ușor să stăpânești o specialitate de prestigiu în fiecare țară. În fiecare an se deschid noi și noi facultăți, care le promite studenților cererea și independența financiară în viitor.
+În fiecare an, experții pe piața forței de muncă anunță ratingul celor mai prestigioase profesii, care este determinat de raportul dintre cerere și ofertă pentru diverse specialități. Pentru cei care nu pot decide cu privire la o profesie, un astfel de rating este o oportunitate de a afla care profesie este cea mai prestigioasă și mai populară. În continuare, în articol vă propunem să vă familiarizați cu datele pentru acest an - vă prezentăm lista celor mai prestigioase profesii.
+<center><h2>Formarea unei profesii</h2></center>
+<img src="7bf74b8e4c9a09331591a22333f59ebc.jpg" height="280" width="500" align="left">
+O profesie apare prin procesul de profesionalizare atunci când orice meserie sau ocupație se transformă prin "dezvoltarea calificărilor formale bazate pe educație, ucenicie și examene, apariția unor organisme de reglementare cu puteri de admitere și disciplină a membrilor și un anumit grad de drepturi de monopol."
+
+Reperele majore care pot marca o ocupație identificată ca profesie includ:
+
+<li>o ocupație devine o ocupație cu normă întreagă</li>
+<li>înființarea unei școli de formare</li>
+<li>înființarea unei școli universitare</li>
+<li>înființarea unei asociații locale</li>
+<li>înființarea unei asociații naționale de etică profesională</li>
+<li>stabilirea legilor de acordare a licențelor de stat</li>
+Aplicarea acestor repere la secvența istorică de dezvoltare din Statele Unite arată că topografia atinge mai întâi statutul profesional (rețineți că George Washington, Thomas Jefferson, și Abraham Lincoln toți au lucrat ca topografi înainte de a intra în politică, urmat de medicină, științe actuariale, drept, stomatologie, inginerie civilă, logistică, arhitectură și contabilitate.
+Odată cu creșterea tehnologiei și specializării ocupaționale în secolul al 19-lea, alte organisme au început să revendice statutul profesional: inginerie mecanică, farmacie, medicină veterinară, psihologie, asistență medicală, predare, biblioteconomie, Optometrie și Asistență Socială, fiecare dintre acestea putând pretinde, folosind aceste repere, că au devenit profesii până în 1900.
+</p></big><br>
+<img src="e697304c93e3311684eba7a75dcde5d2.jpg" height="180" width="220" align="right"><big>Profesiile tind să fie autonome, ceea ce înseamnă că au un grad ridicat de control al propriilor afaceri: "profesioniștii sunt autonomi în măsura în care pot face judecăți independente cu privire la munca lor". aceasta înseamnă de obicei "libertatea de a-și exercita judecata profesională."
+Cu toate acestea, are și alte semnificații. "Autonomia profesională este adesea descrisă ca o pretenție a profesioniștilor care trebuie să servească în primul rând propriilor interese...această autonomie profesională poate fi menținută numai dacă membrii profesiei își supun activitățile și deciziile unei evaluări critice de către alți membri ai profesiei."[19] conceptul de autonomie poate fi, prin urmare, văzut să îmbrățișeze nu numai judecata, ci și interesul propriu și un proces continuu de evaluare critică a eticii și procedurilor din cadrul profesiei în sine.
+O implicație majoră a autonomiei profesionale este interzicerea tradițională a practicii corporative a profesiilor, în special contabilitate, arhitectură, Medicină și drept. Aceasta înseamnă că, în multe jurisdicții, acești profesioniști nu pot face afaceri prin corporații regulate cu scop lucrativ și pot strânge capital rapid prin oferte publice inițiale sau flotații. În schimb, dacă doresc să practice colectiv, trebuie să formeze entități comerciale speciale, cum ar fi parteneriate sau corporații profesionale, care prezintă (1) o protecție redusă împotriva răspunderii pentru neglijență profesională și (2) limitări severe sau interdicții directe privind proprietatea de către neprofesioniști. Implicația evidentă a acestui lucru este că toți proprietarii de acțiuni ai entității profesionale de afaceri trebuie să fie ei înșiși profesioniști.
+Acest lucru evită posibilitatea ca un proprietar neprofesionist al firmei să spună unui profesionist cum să-și facă treaba și, prin urmare, protejează autonomia profesională. Ideea este că singura persoană neprofesionistă care ar trebui să-i spună profesionistului ce să facă este clientul; cu alte cuvinte, autonomia profesională păstrează integritatea relației profesionale-client cu două părți. Deasupra acestei relații client-profesional profesia cere profesionistului să-și folosească autonomia pentru a respecta regulile de etică pe care le cere profesia. Dar, deoarece entitățile profesionale de afaceri sunt efectiv blocate în afara pieței bursiere, ele tind să crească relativ lent în comparație cu corporațiile publice.
+</big>
+<big><big><big><center><h3>Statut, prestigiu și putere</h3></center></big></big></big>
+
+<big>
+Profesiile tind să aibă un statut social ridicat, considerat de societate ca fiind extrem de important. această înaltă stimă apare în primul rând din funcția socială superioară a muncii lor. Profesia tipică implică muncă tehnică, specializată și cu înaltă calificare. Această abilitate și experiență este adesea menționată ca " expertiză profesională."În epoca modernă, formarea pentru o profesie implică obținerea de diplome și certificări. Adesea, intrarea în profesie este interzisă fără licență. Învățarea de noi abilități care sunt necesare pe măsură ce evoluează o profesie se numește educație continuă. Standardele sunt stabilite de state și asociații. Profesioniștii de vârf tind să-și supravegheze și să-și protejeze aria de expertiză și să monitorizeze comportamentul colegilor lor profesioniști prin asociații, naționale sau de altă natură. Profesioniștii exercită adesea o influență dominantă asupra meseriilor conexe, stabilind orientări și standarde. profesioniștii puternici din punct de vedere social își consolidează puterea în organizații pentru obiective specifice.
+Profesioniștii puternici din punct de vedere social își consolidează puterea în organizații pentru obiective specifice. Lucrând împreună, pot reduce încurcăturile birocratice și pot crește adaptabilitatea unei profesii la condițiile în schimbare ale lumii.</big></p>
+<center><img src="korporat.jpg" width="500" height="300"></center>
+</body>
+</html>
+
+
+  

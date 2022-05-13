@@ -1,0 +1,93 @@
+<html>
+<head>
+<title>Profesii de prestigiu</title>
+</head>
+  <style>
+       #navbar ul{
+        display: none;
+        background-color: black;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 50px;
+        background-color: black;
+        padding-left: 50px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 300px;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: gray; }
+      #navbar ul li:hover { background-color: #666; }
+    </style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+ 
+  <body>
+  
+    <ul id="navbar">
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait.html#">Pagina principală</a></li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/sait1.html">Top 10 profesii</a>
+        <ul>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/avocat.html">Avocat</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/IT.html">Specialist in domeniul IT</a></li>
+          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/manager.html">Managerul</a></li>
+		          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/dizaner.html">Designerul de moda</a></li>
+				          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/contabil.html">Contabil</a></li>
+						          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/banc.html">Angajatul bancii</a></li>
+								          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/marketer.html">Marketer</a></li>
+										          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/psiholog.html">Psiholog</a></li>
+												          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/doctor.html">Doctorul</a></li>
+														          <li><a href="file:///D:/RC110/asistenta%20pagini%20web/specialist%20PR.html">
+																  Bucatar</a></li>
+        </ul>
+      </li>
+      <li><a href="file:///D:/RC110/asistenta%20pagini%20web/profesii.html">Alte profesii care sunt solicitate</a></li>
+	    <li><a href="file:///D:/RC110/asistenta%20pagini%20web/despre%20noi.html">Despre noi</a></li>
+    </ul>
+<body text="black">
+<big><h2 align="center">10 cele mai prestigioase profesii</h2>
+<center> <big><p><li><font size="6">Avocat</font></p> </center> </big> De mai bine de 15 ani această profesie a fost extrem de prestigioasă în rândul bărbaților și femeilor. Este destul de dificil să te înscrii în facultatea de drept, deoarece sunt mult mai mulți oameni dispuși să stăpânească această specialitate decât în ​​instituțiile de învățământ superior. Dar cei care reușesc să obțină o diplomă de avocat pot conta cu încredere să lucreze într-o firmă de prestigiu 
+cu salarii mari.</p>
+<center><img src="avocat.jpg" height="250" width="400" ></center>
+<center><big><p><li><font size="6">Specialist în domeniul IT</font></p></center>  </big>Lucrul cu tehnologia informației este prestigios și în cerere. Adevărații specialiști în acest domeniu lucrează adesea nu numai într-un singur loc, ci în mai multe organizații, decât prin asigurarea unui venit ridicat.</p>
+<center><img src="2-36.jpg" height="230" width="400"></center>
+<center><big><p><li><font size="6">Managerul</font></p> </center>  </big>Astăzi, acest cuvânt înseamnă mult. Pozitia managerului este in fiecare companie, chiar si cu un personal mic. Lucrați cu clienții, oferiți bunuri și servicii, dezvoltați publicitatea - aceasta este una dintre principalele responsabilități ale managerului.</p>
+<center><img src="manager.jpg" height="230" width="400"></center>
+<center><big><p><li><font size="6">Designerul de modă</font></p> </center> </big> În agenții de ocupare a forței de muncă și pe site-urile de internet, există foarte puține posturi de designeri de modă. Totuși, designerul de modă este una dintre cele mai prestigioase profesii, deoarece vă permite să lucrați creativ și să fiți conștienți de noile modă.</p>
+<center><img src="dizainer.jfif" height="230" width="400"></center>
+<center><big><p><li><font size="6">Contabil </font></p> </center> </big> Un contabil cu experiență nu se află niciodată fără un loc de muncă. De asemenea, persoanele care dețin această profesie se pot aștepta la un salariu mare și la respectarea de către angajator a tuturor normelor Codului Muncii.</p>
+<center><img src="contabil.jfif" height="230" width="400"></center>
+<center><big><p><li><font size="6">Angajatul băncii</font></p> </center>  </big>Cei mai mulți oameni asociază această lucrare cu una dintre cele mai prestigioase profesii. Condițiile excelente de muncă, salariul ridicat, creșterea carierei și cererea sunt principalele caracteristici ale acestei profesii.</p>
+<center><img src="sotrudnik banca.jpg" height="230" width="400"></center>
+<center><big><p><li><font size="6">Marketer</font></p> </center> </big> Profesia unui marketer este una dintre cele mai prestigioase profesii, deoarece implică vizite sociale, revizuirea noutăților pe piața bunurilor și serviciilor.</p>
+<center><img src="marketolog.jpg" height="230" width="400"></center>
+<center><big><p><li><font size="6">Psihologul</font></p> </center> </big> Poziția unui psiholog este interesantă prin faptul că vă permite să comunicați cu oameni interesați, să participați la seminarii, evenimente de teren. În plus față de salariul ridicat, această profesie implică o înțelegere a relației dintre oameni, studiul personajelor și comportamentului, care este foarte util în viață.</p>
+<center><img src="психолог.jpg" height="230" width="400"></center>
+<center><big><p><li><font size="6">Doctorul</font></p> </center> </big> Pentru a stăpâni această profesie, este nevoie de mult mai mult timp - de la 7 la 10 ani de studii la universitate. Dar, după ce a învățat și a primit practică, studentul devine proprietarul uneia dintre cele mai solicitate și prestigioase profesii ale tuturor timpurilor. Un număr mare de instituții medicale private fac acest lucru foarte important 
+cele mai prestigioase profesii ale viitorului bine plătit.</p>
+<center><img src="vraci.jpg" height="230" width="400"></center>
+<center><big><p><li><font size="6">Specialist în domeniul PR</font></p></center> </big>Specialiști în domeniul publicității - deținători ai unor profesii cele mai prestigioase, pentru că câștigă bani pe ideile lor.</p>
+<center><img src="reklama.jfif" height="230" width="400"></center>
+<big><p>În ciuda prestigiului ocupațiilor de mai sus, experții susțin că în câțiva ani această listă se va schimba. Multe specialități moderne nu vor fi incluse în ratingul celor mai prestigioase profesii ale viitorului. Potrivit previziunilor, în câțiva ani prestigiul specialităților tehnice va crește semnificativ. Și una dintre cele mai prestigioase profesii ale viitorului ar trebui să fie inginer.</p></big>
+</big>
+</body>
+</html>
